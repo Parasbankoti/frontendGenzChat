@@ -1,12 +1,12 @@
 import React from "react";
 
 // assets
-import Instagram from "src/assets/instagram.png";
-import WhatsApp from "src/assets/whatsapp.png";
-import Bumble from "src/assets/bumble.png";
-import Hinge from "src/assets/hinge.png";
-import Jambau from "src/assets/jambau.png";
-import Tinder from "src/assets/tinder.png";
+import Instagram from "../assets/instagram.png";
+import WhatsApp from "../assets/whatsapp.png";
+import Bumble from "../assets/bumble.png";
+import Hinge from "../assets/hinge.png";
+import Jambau from "../assets/jambau.png";
+import Tinder from "../assets/tinder.png";
 
 export default function SocialMedia() {
   const icons = [
